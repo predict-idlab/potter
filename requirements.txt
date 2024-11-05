@@ -1,0 +1,8 @@
+owlready2
+dill
+rdflib
+numpy
+pandas
+scikit-learn
+catboost
+pyarrow
